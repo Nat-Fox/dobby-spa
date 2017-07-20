@@ -1,12 +1,15 @@
-nav .nav-wrapper {
-  display: flex;
-  justify-content: center; }
-
-div {
+nav {
   background-color: #2e1e1d; }
-  div ul li {
-    color: whitesmoke; }
-    div ul li :hover {
-      color: #d99c4c; }
+  nav .nav-wrapper {
+    display: flex;
+    justify-content: center; }
+
+div ul li {
+  color: whitesmoke; }
+  div ul li :hover {
+    color: #d99c4c; }
+
+.carousel {
+  height: 480px; }
 
 /*# sourceMappingURL=main.css.map */

@@ -1,5 +1,6 @@
 // centra el contenido del nav
 nav {
+    background-color: $color-navbar;
     .nav-wrapper {
         display: flex;
         justify-content: center;
@@ -7,7 +8,6 @@ nav {
 }
 
 div {
-    background-color: $color-navbar;
     ul {
         li {
             color: $color-text;

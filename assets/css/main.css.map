@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAEI,gBAAa;EACT,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;;AAI/B,GAAI;EACA,gBAAgB,ECTL,OAAO;EDWd,SAAG;IACC,KAAK,ECXJ,UAAU;IDYV,gBAAO;MACJ,KAAK,ECZP,OAAO",
-"sources": ["../sass/_nav.scss","../sass/_variables.scss"],
+"mappings": "AACA,GAAI;EACA,gBAAgB,ECFL,OAAO;EDGlB,gBAAa;IACT,OAAO,EAAE,IAAI;IACb,eAAe,EAAE,MAAM;;AAMvB,SAAG;EACC,KAAK,ECXJ,UAAU;EDYV,gBAAO;IACJ,KAAK,ECZP,OAAO;;ACFrB,SAAU;EACN,MAAM,EDEQ,KAAK",
+"sources": ["../sass/_nav.scss","../sass/_variables.scss","../sass/_carousel.scss"],
 "names": [],
 "file": "main.css"
 }
