@@ -1,0 +1,19 @@
+// centra el contenido del nav
+nav {
+    .nav-wrapper {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+div {
+    background-color: $color-navbar;
+    ul {
+        li {
+            color: $color-text;
+             :hover {
+                color: $color-hover;
+            }
+        }
+    }
+}

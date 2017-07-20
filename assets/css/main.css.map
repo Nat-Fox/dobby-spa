@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AAEI,gBAAa;EACT,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;;AAI/B,GAAI;EACA,gBAAgB,ECTL,OAAO;EDWd,SAAG;IACC,KAAK,ECXJ,UAAU;IDYV,gBAAO;MACJ,KAAK,ECZP,OAAO",
+"sources": ["../sass/_nav.scss","../sass/_variables.scss"],
 "names": [],
 "file": "main.css"
 }

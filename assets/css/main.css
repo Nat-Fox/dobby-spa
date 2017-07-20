@@ -1,3 +1,12 @@
+nav .nav-wrapper {
+  display: flex;
+  justify-content: center; }
 
+div {
+  background-color: #2e1e1d; }
+  div ul li {
+    color: whitesmoke; }
+    div ul li :hover {
+      color: #d99c4c; }
 
 /*# sourceMappingURL=main.css.map */
