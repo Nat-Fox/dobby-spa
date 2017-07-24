@@ -1,0 +1,22 @@
+#about {
+    background-color: $back-color-about;
+    padding-top: $padd-bot-top-about;
+    padding-bottom: $padd-bot-top-about;
+    border-bottom: 2px solid white;
+    .title-about {
+        color: $color-text-about;
+        margin-bottom: $mrg-bot-about;
+    }
+    .img-about-home-1 {
+        float: left;
+        margin-right: 10px;
+    }
+    .text-lorem-about {
+        color: $color-text-about;
+        text-align: justify;
+    }
+    .img-about-home-2 {
+        float: right;
+        margin-left: 10px;
+    }
+}

@@ -5858,3 +5858,26 @@ button.close {
     margin-bottom: 5px; }
   #welcome .glyphicon {
     color: #8c5a3c; }
+
+#about {
+  background-color: #4a3938;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-bottom: 2px solid white; }
+  #about .title-about {
+    color: #d4bc83;
+    margin-bottom: 50px; }
+  #about .img-about-home-1 {
+    float: left;
+    margin-right: 10px; }
+  #about .text-lorem-about {
+    color: #d4bc83;
+    text-align: justify; }
+  #about .img-about-home-2 {
+    float: right;
+    margin-left: 10px; }
+
+#follow {
+  background-color: #2e1e1d;
+  padding-top: 50px;
+  padding-bottom: 50px; }
