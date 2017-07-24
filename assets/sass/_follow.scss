@@ -2,4 +2,44 @@
     background-color: $back-color-follow;
     padding-top: $padd-bot-top-follow;
     padding-bottom: $padd-bot-top-follow;
+    .title-follow {
+        color: $color-text-follow;
+        padding-bottom: $padd-bot-top-follow;
+    }
+    .social-icon {
+        background-color: $back-icon-social;
+        border-radius: $border-radius-icon;
+        border: $border-icon;
+        width: $wid-hei-icon;
+        height: $wid-hei-icon;
+        margin-right: $mrg-rig-icon;
+        cursor: pointer;
+    }
+    .text-follow {
+        color: $color-text-follow;
+    }
+    .text-size-follow {
+        font-size: $size-text;
+        margin-top: -5px;
+    }
+    .correo {
+        cursor: pointer;
+        color: $color-correo;
+    }
+    .one,
+    .two {
+        padding: 5px;
+    }
+    hr {
+        color: $hr-color;
+    }
+    .icon-follow {
+        color: $color-icon-quotes;
+        float: left;
+        margin-right: $marg-icon-quotes;
+    }
+    .text-follow-quote {
+        color: $color-text-follow;
+        text-align: justify;
+    }
 }

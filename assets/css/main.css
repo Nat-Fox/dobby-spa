@@ -5881,3 +5881,34 @@ button.close {
   background-color: #2e1e1d;
   padding-top: 50px;
   padding-bottom: 50px; }
+  #follow .title-follow {
+    color: #dba767;
+    padding-bottom: 50px; }
+  #follow .social-icon {
+    background-color: #bdb88c;
+    border-radius: 50%;
+    border: 3px solid #c96d4f;
+    width: 20%;
+    height: 20%;
+    margin-right: 10px;
+    cursor: pointer; }
+  #follow .text-follow {
+    color: #dba767; }
+  #follow .text-size-follow {
+    font-size: 14px;
+    margin-top: -5px; }
+  #follow .correo {
+    cursor: pointer;
+    color: #c75e3e; }
+  #follow .one,
+  #follow .two {
+    padding: 5px; }
+  #follow hr {
+    color: #c2ab7c; }
+  #follow .icon-follow {
+    color: #873a24;
+    float: left;
+    margin-right: 10px; }
+  #follow .text-follow-quote {
+    color: #dba767;
+    text-align: justify; }
