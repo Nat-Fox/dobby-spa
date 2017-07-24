@@ -1,0 +1,24 @@
+#info {
+    background-color: $back-color-info;
+    padding-bottom: $padd-boton-info;
+    .img-info {
+        margin-top: $mrg-top-negative;
+        border: $border-foto;
+        cursor: pointer;
+    }
+    .img-tratamiento {
+        color: $color-text-tramiento;
+    }
+    .text-lorem {
+        color: $color-text-lorem;
+        margin-top: $mrg-text-btmtop;
+        margin-bottom: $mrg-text-btmtop;
+    }
+    .btn-read-more {
+        background-color: $back-btn-read;
+        padding: 4px;
+        color: $color-text-btn-info;
+        cursor: pointer;
+        text-decoration: none;
+    }
+}
