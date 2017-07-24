@@ -1,0 +1,8 @@
+.navbar-default {
+    background-color: $color-navbar;
+    display: flex;
+    justify-content: center;
+    .navbar-nav>li>a:hover {
+        color: $color-hover;
+    }
+}
