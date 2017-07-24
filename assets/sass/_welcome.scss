@@ -1,0 +1,20 @@
+#welcome {
+    background-color: $back-color-welcome;
+    padding-top: $padd-bot-top-welcome;
+    padding-bottom: $padd-bot-top-welcome;
+    .title-welcome {
+        color: $title-welcome;
+        margin-bottom: $mrg-text-btmtop;
+    }
+    .text-lorem {
+        color: $color-text-lorem;
+        margin-bottom: $mrg-text-btmtop;
+    }
+    .text-icon {
+        @extend .text-lorem;
+        margin-bottom: 5px;
+    }
+    .glyphicon {
+        color: $color-icon;
+    }
+}

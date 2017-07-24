@@ -5833,7 +5833,7 @@ button.close {
     cursor: pointer; }
   #info .img-tratamiento {
     color: #00061f; }
-  #info .text-lorem {
+  #info .text-lorem, #info #welcome .text-icon, #welcome #info .text-icon {
     color: #918b7e;
     margin-top: 30px;
     margin-bottom: 30px; }
@@ -5843,3 +5843,18 @@ button.close {
     color: black;
     cursor: pointer;
     text-decoration: none; }
+
+#welcome {
+  background-color: #f5f5f5;
+  padding-top: 50px;
+  padding-bottom: 50px; }
+  #welcome .title-welcome {
+    color: #e35d5d;
+    margin-bottom: 30px; }
+  #welcome .text-lorem, #welcome .text-icon {
+    color: #918b7e;
+    margin-bottom: 30px; }
+  #welcome .text-icon {
+    margin-bottom: 5px; }
+  #welcome .glyphicon {
+    color: #8c5a3c; }
