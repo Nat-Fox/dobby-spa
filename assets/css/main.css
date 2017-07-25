@@ -5826,7 +5826,8 @@ button.close {
 
 #info {
   background-color: #e6dfb5;
-  padding-bottom: 50px; }
+  padding-bottom: 50px;
+  border-top: 2px solid black; }
   #info .img-info {
     margin-top: -50px;
     border: 6px solid #d9bd82;
@@ -5912,3 +5913,25 @@ button.close {
   #follow .text-follow-quote {
     color: #dba767;
     text-align: justify; }
+
+.line-left {
+  margin-left: 30%;
+  width: 70%;
+  border-top: 2px solid #fff;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: flex-end; }
+
+.circle {
+  margin-top: -6px;
+  background-color: white;
+  width: 6px;
+  padding: 6px;
+  border-radius: 50%; }
+
+.line-right {
+  width: 70%;
+  border-top: 2px solid #fff;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: flex-start; }

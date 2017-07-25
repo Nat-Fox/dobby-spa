@@ -43,3 +43,28 @@
         text-align: justify;
     }
 }
+
+.line-left {
+    margin-left: $mrg-left-line;
+    width: $widt-line-left-right;
+    border-top: $border-top-line;
+    margin-bottom: $mrg-bot-line;
+    display: flex;
+    justify-content: flex-end
+}
+
+.circle {
+    margin-top: $mrg-top-circle;
+    background-color: $color-circle;
+    width: $circle-space;
+    padding: $circle-space;
+    border-radius: $border-circle;
+}
+
+.line-right {
+    width: $widt-line-left-right;
+    border-top: $border-top-line;
+    margin-bottom: $mrg-bot-line;
+    display: flex;
+    justify-content: flex-start;
+}
